@@ -1,1 +1,41 @@
+#Nimi, lempiväri ja harrastukset
+
+Jenny Kalliosto, punainen, pelaaminen ja elokuvien katselu
+
+Joonas Melvasalo, Vihreä, Lenkittäminen
+
+Mauro Sanchez Gonzalez, musta, Nyrkkeily
+
+Samrat Shamem, sininen, Pelaaminen
+
+Timur Galkin, Musta, Jääkiekko
+
+Rajan, vihreä, pelaaminen
+
+Tommy Le, Vihreä, Sali
+
+jax, purppura, nukkuminen
+
+Anton Schroderus, Sinivihreä, Pelaaminen ja kuntoilu
+
+Leevi Jussila, sininen, Pelaaminen
+
 Joni Jartti, Vihreä, Pelaaminen
+
+Niko Rintala, Liila
+
+Kimi Nykänen, Valkoinen
+
+Matias Enström, liila, rummutus
+
+Lucas Markamo, Oranssi, Sali
+
+Simo Palonen, sininen, pelit
+
+Aaron Hartikka, Punanen, Sali
+
+Jaroslav Karelkin, Musta, Sali
+
+Tuukka Lauren, musta, pelit
+
+Hans Kärkkäinen, Purppura, keräily
